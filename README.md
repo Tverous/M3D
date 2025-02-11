@@ -1,6 +1,8 @@
 # M3D
 
-Coming soon...
+To be detailed
+
+[Download The Dataset](http://vision2.cs.vt.edu:8080/downloads/)
 
 # ToDos
 
